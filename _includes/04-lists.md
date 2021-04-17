@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+1. movies
+2. eat
+3. sleep
+4. bike
+5. golf
+- because
+- I love
+- you
